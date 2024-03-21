@@ -20,5 +20,5 @@ optional: VARCHAR (255), NULL
 colore carrozzeria: VARCHAR (50), NOT NULL
 materiale interni: VARCHAR (50), NOT NULL
 numero di telaio: VARCHAR (17), NOT NULL, UNIQUE
-targa: VARCHAR(15), NULL, UNIQUE
+targa: VARCHAR(15), NULL
 prezzo in €: FLOAT(8,2), NOT NULL
